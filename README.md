@@ -95,5 +95,5 @@ kimyoungbin
 
 ***
 
-![dog](dog.jfif)
+![dog](/dog.jfif)
 
