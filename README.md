@@ -123,7 +123,7 @@ void main(){
 dsdsdsddsdsd `printf("hellow");` dsdsddsd
 
 ---
-\*text\*
-\_text\+
-\*\*text\*\*
-\_\_text\_\_
+\*text\*  
+\_text\*  
+\*\*text\*\*  
+\_\_text\_\_  
