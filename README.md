@@ -100,7 +100,7 @@ kimyoungbin
 ***
 
 '''java
-function test(){
-    console.log("hellow world");
+void main(){
+    printf("hellow world")
 }
 '''
