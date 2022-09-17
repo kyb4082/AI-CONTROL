@@ -32,6 +32,6 @@ world
 
 > nane
 
-    * kim
-    
-        yougbin
+* kim
+
+yougbin
