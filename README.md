@@ -61,20 +61,22 @@ Link: [Google][googlelink]
 
  ***
 
- *한 개일 때*
+ *1개*
 
- _한 개일 때_
+ _1개_
 
- **두 개일 때**
+ **2개**
 
- __두 개일 때__
+ __2개__
 
  ~~취소선~~
 
 ***
 
-smartfactory kimyoungbin
+smartfactory
+kimyoungbin
 
-smartfactory   kimyoungbin
+smartfactory   
+kimyoungbin
 
 
