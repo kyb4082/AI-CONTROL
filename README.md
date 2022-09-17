@@ -32,16 +32,21 @@ world
 
 ***
 
-//code 
+//참조링크
 
 Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
-***
-//naver
+
+//참조링크
 
 link: [naver][naverlink]
 
 [naverlink]: https://naver.com "Go naver"
 
+***
+
+//외부링크
+
+[Google](https://google.com)
