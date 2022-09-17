@@ -99,7 +99,7 @@ kimyoungbin
 
 ***
 
-'''javasqript
+'''java
 function test(){
     console.log("hellow world");
 }
