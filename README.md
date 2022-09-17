@@ -41,7 +41,7 @@ Link: [Google][googlelink]
 
 * 참조링크
 
-link: [naver][naverlink]
+[naver][naverlink]
 
 [naverlink]: https://naver.com "Go naver"
 
