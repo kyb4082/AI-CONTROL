@@ -39,8 +39,8 @@ Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
 ***
-naver
+//naver
 link: [naver][naverlink]
 
-[naverlink]: https://naver.com " Go naver"
+[naverlink]: https://naver.com "Go naver"
 
