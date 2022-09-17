@@ -81,6 +81,6 @@ kimyoungbin
 
 ***
 
-![Alt text](/C:\Users\user\OneDrive\바탕 화면)
+![C:\Users\user\OneDrive\바탕 화면]
 
 
