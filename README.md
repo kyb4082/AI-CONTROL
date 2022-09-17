@@ -32,14 +32,14 @@ world
 
 ***
 
-//참조링크
++ 참조링크
 
 Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
 
-//참조링크
+* 참조링크
 
 link: [naver][naverlink]
 
@@ -47,6 +47,15 @@ link: [naver][naverlink]
 
 ***
 
-//외부링크
+- 외부링크
 
 [Google](https://google.com)
+
+***
+
+* 자동연결
+
+ 외부링크: <http://example.com/>
+
+ 이메일링크: <address@example.com>
+
