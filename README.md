@@ -99,8 +99,6 @@ kimyoungbin
 
 ***
 
-'''java
-void main(){
-    printf("hellow world")
-}
-'''
+smart | factory
+----- | -------
+kim | youngbin
