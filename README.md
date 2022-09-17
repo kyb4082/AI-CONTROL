@@ -59,3 +59,13 @@ Link: [Google][googlelink]
 
  이메일링크: <address@example.com>
 
+ ***
+
+ *한 개일 때*
+ _한 개일 때_
+ **두 개일 때*
+ __두 개일 때__
+ ~~취소선~~
+
+
+
