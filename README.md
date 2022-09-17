@@ -102,3 +102,8 @@ kimyoungbin
 smart | factory
 ----- | -------
 kim | youngbin
+
+***
+
+-[ ] 체크박스
+-[x] 췌크박스
