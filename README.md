@@ -142,7 +142,7 @@ kim | youngbin
 
 ```c
 void main(){
-    printf("hellow");
+    printf("hello");
 }
 ```
 
