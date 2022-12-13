@@ -1,3 +1,5 @@
+## 파이썬코드
+
 ```c
 import cv2
 import mediapipe as mp
@@ -109,7 +111,7 @@ while cap.isOpened():
     if cv2.waitKey(1) == ord('q'):
         break
 ```
-
+## 아두이노코드
 ```arduino
 #include <dht11.h>
 dht11 DHT11;
