@@ -110,6 +110,44 @@ while cap.isOpened():
         break
 ```
 
+```arduino
+#include <dht11.h>
+dht11 DHT11;
+int pin_DHT11 =2;
+
+void setup()
+{
+  Serial.begin(115200);
+}
+
+void loop()
+{
+  int chk = DHT11.read(pin_DHT11);
+
+  switch(chk)
+  {
+    caseGHTLIB_OK:
+    Serial.print("Temperature:");
+    Serial.print(DHT11.temperature);
+    Serial.;print("[C]Humidity:");
+    Serial.print(DHT11.humidity);
+    Serial.println("[%]");
+    break;
+    case DHTLIB_ERROR_CHECKSUM:
+    Serial.println("Checksum error");
+    break;
+    case DHTLIB_ERROR_TIMEOUT:
+    Serial.println("Timeout error error");
+    break;
+   default;
+   Serial.println("Unknown error");
+   break;
+   
+  }
+  delay(1000);
+}
+```
+
 # 마크다운
 
 > * 이름 : 김영빈 
